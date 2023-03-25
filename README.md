@@ -1,2 +1,2 @@
-# SQL-QUERIES
-Data Dig using NFL players data
+# EXPLORATORY_ANALYSIS_OF_NFL_TEAMS
+
